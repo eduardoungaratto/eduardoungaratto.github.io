@@ -1,0 +1,33 @@
+body {
+	/*background-color: #dddddd;*/
+	background-image: url("../images/landscape-background.jpg");
+  	background-repeat: no-repeat;
+  	height: 100%;
+}
+
+.row-title-3 {
+	background-color: transparent;
+	margin: 32px;
+}
+
+.col-title-3 {
+	background-color: transparent;
+	margin: 16px;
+}
+
+.title-3 {
+	color: white;
+	margin: 16px;
+	padding: 16px;
+}
+
+.row {
+	background-color: #ffffff;
+	margin: 32px;
+}
+
+.col {
+	background-color: #ffffff;
+	margin: 16px;
+}
+
