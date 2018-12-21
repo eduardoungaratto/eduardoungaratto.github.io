@@ -1,8 +1,15 @@
 body {
 	/*background-color: #dddddd;*/
-	background-image: url("../images/landscape-background.jpg");
-  	background-repeat: no-repeat;
+	background-image: url("../images/glass-background.png");
+  	width: 100%
   	height: 100%;
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-position: center; 
+}
+
+ul li {
+	list-style-type: none;
 }
 
 .row-title-3 {
@@ -12,18 +19,21 @@ body {
 
 .col-title-3 {
 	background-color: transparent;
-	margin: 16px;
+	margin: 32px;
 }
 
 .title-3 {
-	color: white;
-	margin: 16px;
+	text-align: center;
+	color: black;
+	margin: 32px;
 	padding: 16px;
 }
 
 .row {
 	background-color: #ffffff;
-	margin: 32px;
+	margin: 16px;
+	padding: 16px;
+	border-radius: 8px;
 }
 
 .col {
@@ -31,3 +41,16 @@ body {
 	margin: 16px;
 }
 
+
+.icon {
+	width: 24px;
+	height: 24px;
+}
+
+.link {
+	color: black;
+}
+
+.link:hover {
+	color: blue;
+}
