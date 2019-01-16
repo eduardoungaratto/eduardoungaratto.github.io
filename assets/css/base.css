@@ -1,6 +1,6 @@
 body {
 	/*background-color: #dddddd;*/
-	background-image: url("../images/glass-background.png");
+	background-image: url("../images/office-background.jpg");
   	width: 100%
   	height: 100%;
   	margin-top: 32px;
@@ -8,12 +8,16 @@ body {
   	background-repeat: no-repeat;
   	background-attachment: fixed;
   	background-position: center; 
+  	font-size: 18px;
 }
 
 ul li {
 	list-style-type: none;
 }
 
+h1, h5 {
+	color: white;
+}
 /* Rules for sizing the icon. */
 .material-icons.md-18 { font-size: 18px; }
 .material-icons.md-24 { font-size: 24px; }
@@ -44,14 +48,14 @@ ul li {
 }
 
 .row {
-	background-color: #ffffff;
+	background-color: transparent;
 	margin: 12px;
 	padding: 16px;
 	border-radius: 8px;
 }
 
 .col {
-	background-color: #ffffff;
+	background-color: transparent;
 	margin: 16px;
 }
 
@@ -61,10 +65,14 @@ ul li {
 	height: 24px;
 }
 
+i.icon-white {
+	color: white;
+}
+
 .link {
-	color: black;
+	color: white;
 }
 
 .link:hover {
-	color: blue;
+	color: gray;
 }
