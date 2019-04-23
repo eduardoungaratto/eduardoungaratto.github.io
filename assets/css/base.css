@@ -9,6 +9,7 @@ body {
   	background-attachment: fixed;
   	background-position: center; 
   	font-size: 18px;
+  	color: white;
 }
 
 ul li {
@@ -76,3 +77,4 @@ i.icon-white {
 .link:hover {
 	color: gray;
 }
+
