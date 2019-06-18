@@ -10,6 +10,7 @@ body {
   	background-position: center; 
   	font-size: 18px;
   	color: white;
+  	font-family: Arial, Sans-serif;
 }
 
 ul li {
@@ -50,14 +51,14 @@ h1, h5 {
 
 .row {
 	background-color: transparent;
-	margin: 12px;
-	padding: 16px;
+	margin: 6px;
+	padding: 8px;
 	border-radius: 8px;
 }
 
 .col {
 	background-color: transparent;
-	margin: 16px;
+	margin: 8px;
 }
 
 
