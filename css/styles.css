@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #4b9643;
+  color: #00027a;
   text-decoration: none;
   background-color: transparent;
 }
@@ -6097,7 +6097,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #4b9643 !important;
+  background-color: #00027a !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6107,7 +6107,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #6c757d !important;
+  background-color: #00027a !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
@@ -9799,19 +9799,19 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #4b9643 !important;
+  color: #00027a !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #4b9600 !important;
+  color: #00027a !important;
 }
 
 .text-secondary {
-  color: #4b9643 !important;
+  color: #00027a !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
-  color: #4b9600 !important;
+  color: #00027a !important;
 }
 
 .text-success {
